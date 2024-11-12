@@ -3,7 +3,7 @@
 #     def __init__(self, val=0, next=None):
 #         self.val = val
 #         self.next = next
-
+#here th actual code for merge the two lists
 class Solution(object):
    def mergeTwoLists(self, list1, list2):
        dummy = ListNode()
