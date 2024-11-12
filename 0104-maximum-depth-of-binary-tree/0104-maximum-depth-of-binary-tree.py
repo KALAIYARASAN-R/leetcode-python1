@@ -34,7 +34,7 @@
     # Get the maximum depth of the tree
     #depth = maxDepth(root)
     #print("Maximum depth of the tree:", depth)
-
+Above codings are understanding purpose only
 
 class Solution:
     def maxDepth(self, root: Optional[TreeNode]) -> int:
