@@ -26,4 +26,12 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0035-search-insert-position) |
+## Two Pointers
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/1894-merge-strings-alternately) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
