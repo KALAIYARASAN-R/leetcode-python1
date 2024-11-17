@@ -20,6 +20,7 @@
 | [0001-two-sum](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -31,9 +32,14 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0088-merge-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [1894-merge-strings-alternately](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/1894-merge-strings-alternately) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
