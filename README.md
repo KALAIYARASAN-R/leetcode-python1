@@ -25,22 +25,26 @@
 | [0066-plus-one](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0088-merge-sorted-array) |
+| [0349-intersection-of-two-arrays](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0349-intersection-of-two-arrays) |
 | [1894-merge-strings-alternately](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
@@ -52,6 +56,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
