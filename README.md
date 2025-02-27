@@ -14,6 +14,7 @@
 | [0013-roman-to-integer](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0268-missing-number) |
 | [3568-find-the-key-of-the-numbers](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/3568-find-the-key-of-the-numbers) |
 ## Recursion
@@ -46,6 +47,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/KALAIYARASAN-R/leetcode-python1/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
